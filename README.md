@@ -1,2 +1,3 @@
 # hello-world
-new repository
+hello everyone,
+I'm Danodya
